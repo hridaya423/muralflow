@@ -22,7 +22,7 @@ export const useSession = () => {
   const [isConnected, setIsConnected] = useState(false);
 
   useEffect(() => {
-    const newSocket = io('http://localhost:3001', {
+    const newSocket = io('https://muralflow.onrender.com', {
       reconnection: true,
       reconnectionAttempts: 5,
       reconnectionDelay: 1000,
