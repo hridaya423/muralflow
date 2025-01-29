@@ -1,8 +1,6 @@
-# Mural Flow
+![Mural Flow Logo](https://raw.githubusercontent.com/hridaya423/muralflow/refs/heads/master/public/logo.png)
 
 A real-time collaborative whiteboard application that allows teams to create, share, and collaborate on digital spaces with sticky notes and freehand drawing capabilities.
-
-![Mural Flow Logo](logo.png)
 
 ## 🚀 Features
 
@@ -34,6 +32,12 @@ yarn install
 npm run dev
 # or
 yarn dev
+```
+4. Start backend server:
+```bash
+npm run start:server
+# or
+yarn start:server
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
