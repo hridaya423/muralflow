@@ -27,7 +27,7 @@ const CONFIG = {
   PORT: 3001,
   CLEANUP_INTERVAL: 300000,
   SESSION_TIMEOUT: 1800000,
-  CORS_ORIGIN: "http://localhost:3000",
+  CORS_ORIGIN: "https://muralflow.vercel.app/",
   SESSION_ID_LENGTH: 6
 } as const;
 
