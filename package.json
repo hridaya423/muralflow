@@ -18,7 +18,7 @@
     "konva": "^9.3.18",
     "lucide-react": "^0.474.0",
     "nanoid": "^5.0.9",
-    "next": "15.1.6",
+    "next": "16.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-konva": "^19.0.2",
