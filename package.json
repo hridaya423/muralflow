@@ -19,7 +19,7 @@
     "lucide-react": "^0.556.0",
     "nanoid": "^5.1.6",
     "next": "16.0.7",
-    "react": "^19.2.1",
+    "react": "^19.2.3",
     "react-dom": "^19.0.0",
     "react-konva": "^19.2.1",
     "socket.io": "^4.8.1",
