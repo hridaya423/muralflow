@@ -11,7 +11,7 @@
     "start:server": "node --loader ts-node/esm server/index.ts"
   },
   "dependencies": {
-    "@types/nanoid": "^2.1.0",
+    "@types/nanoid": "^3.0.0",
     "canvas": "^3.1.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
